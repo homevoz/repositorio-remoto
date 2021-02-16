@@ -2,4 +2,9 @@ body {
 	background-color: #ccc;
 	font-weight: bold;
 	color: white;
+	text-align: center;
+}
+
+#centrar-imagen {
+	text-align: center;
 }
